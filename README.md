@@ -21,4 +21,6 @@ Com o apoio e a metodologia do Professor Rodolfo Mori no DevClub, sigo evoluindo
 <br>
 <img src='https://github.com/Eliassilva98/Landing-page-Desktop-e-mobile-HTML-e-CSS./blob/main/assets/Captura%20de%20tela%202025-06-05%20131831.png?raw=true'>
 <br>
-<img src=''>
+<div align='center'>
+<img src='https://github.com/Eliassilva98/Landing-page-Desktop-e-mobile-HTML-e-CSS./blob/main/assets/Captura%20de%20tela%202025-06-05%20131917.png?raw=true'>
+</div>
