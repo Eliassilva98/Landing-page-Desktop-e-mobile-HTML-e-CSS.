@@ -13,10 +13,10 @@ Com o apoio e a metodologia do Professor Rodolfo Mori no DevClub, sigo evoluindo
 <div align='left'>
   <img src='https://cdn-icons-png.flaticon.com/128/226/226269.png' width='50'>
   <img src='https://cdn-icons-png.flaticon.com/128/15474/15474190.png' width='50'>
-  <img src='https://cdn-icons-png.flaticon.com/128/6417/6417788.png' width='50'>
+  <img src='https://cdn-icons-png.flaticon.com/128/2703/2703934.png' width='50'>
 </div>
 <br>
-📌 Projeto desenvolvido para estudo, prática e evolução contínua como desenvolvedor front-end.
+📌 Projeto criado para treinar estruturação com HTML e estilização com CSS e Responsividade no front-end.
 <br>
 <br>
 <img src='https://github.com/Eliassilva98/Landing-page-Desktop-e-mobile-HTML-e-CSS./blob/main/assets/Captura%20de%20tela%202025-06-05%20131831.png?raw=true'>
